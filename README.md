@@ -5,7 +5,12 @@ IPFS is a distributed file system that aims to connect all computing devices to 
 
 IPFS is becoming the new core subsystem of the Internet. Properly constructed, it can complement or replace the HTTP protocol.It can supplement or replace even more. 
 
+##  Architecture of IPFS
+![1](https://github.com/Debasis900/implemention-of-ipfs/assets/33112583/8e5c3bfd-510c-4881-9464-b4635f76cada)
+**Inside of Cluster Web server Workflow :**
+![2](https://github.com/Debasis900/implemention-of-ipfs/assets/33112583/247362ee-d741-4fdf-b320-ef54b02f6d94)
 
+## Practical Implemention
 
 https://github.com/Debasis900/implemention-of-ipfs/assets/33112583/0ddf37db-49a7-4d05-93a4-f97404a2b678
 
@@ -82,3 +87,4 @@ $ ipfs get <CID>
 - Once downloaded open the file in suitable application.
 
 *Note : To learn more about IPFS use the [docs](https://docs.ipfs.tech/) which is very informative and  well documented.*
+
