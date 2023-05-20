@@ -1,9 +1,14 @@
 ## Introduction
-IPFS( [InterPlanetary File System](https://docs.ipfs.tech/concepts/what-is-ipfs/) ) is a **content-** **and** **identity-driven** hypermedia distribution **protocol.** It enables the creation of **fully** distributed **applications** and **thus** aims to make the web faster, **more** **secure** and more open.
+IPFS( [InterPlanetary File System](https://docs.ipfs.tech/concepts/what-is-ipfs/) ) is a **content-**Â **and**Â **identity-driven**Â hypermedia distributionÂ **protocol.**Â It enables the creation ofÂ **fully**Â distributedÂ **applications**Â andÂ **thus**Â aims to make the web faster,Â **more**Â **secure**Â and more open.
 
 IPFS is a distributed file system that aims to connect all computing devices to the same file system. In a way, this is similar to the original network targets, but IPFS is actually more like a single BitTorrent swarm exchanging Git objects. You can learn more about its origins in the article IPFS - Content Addressed, Versioned, P2P File System.
 
 IPFS is becoming the new core subsystem of the Internet. Properly constructed, it can complement or replace the HTTP protocol.It can supplement or replace even more. 
+
+
+
+https://github.com/Debasis900/implemention-of-ipfs/assets/33112583/0ddf37db-49a7-4d05-93a4-f97404a2b678
+
 
 ## How IPFS works
 IPFS is a peer-to-peer (p2p) storage network. Content is available through partners around the world who can transmit information, store information, or both. IPFS knows how to find what you're asking for by the address of the content, not the location.
